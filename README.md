@@ -1,4 +1,4 @@
-# Prueba Técnica CRUD en Django con SQL Server
+# CRUD en Django con SQL Server
 
 > Atendiendo el reto Code Challenge, se desarrolla una aplicación en Django que implementa un CRUD (Crear, Leer, Actualizar, Eliminar) siguiendo buenas prácticas de diseño y codificación, como los principios SOLID y el uso adecuado de SQL Server.
 
