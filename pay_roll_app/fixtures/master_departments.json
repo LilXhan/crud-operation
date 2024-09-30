@@ -1,0 +1,50 @@
+[
+  {
+    "model": "pay_roll_app.Department",
+    "pk": 1,
+    "fields": {
+      "department_name": "HR",
+      "location_name": "West"
+    }
+  },
+  {
+    "model": "pay_roll_app.Department",
+    "pk": 2,
+    "fields": {
+      "department_name": "Sales",
+      "location_name": "West"
+    }
+  },
+  {
+    "model": "pay_roll_app.Department",
+    "pk": 3,
+    "fields": {
+      "department_name": "Finance",
+      "location_name": "West"
+    }
+  },
+  {
+    "model": "pay_roll_app.Department",
+    "pk": 4,
+    "fields": {
+      "department_name": "Billing",
+      "location_name": "East"
+    }
+  },
+  {
+    "model": "pay_roll_app.Department",
+    "pk": 5,
+    "fields": {
+      "department_name": "Admin",
+      "location_name": "East"
+    }
+  },
+  {
+    "model": "pay_roll_app.Department",
+    "pk": 6,
+    "fields": {
+      "department_name": "Networking",
+      "location_name": "East"
+    }
+  }
+]
